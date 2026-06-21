@@ -1,4 +1,6 @@
-#Single-Page CV
+# Single-Page CV
+# https://roadmap.sh/projects/single-page-cv
+# https://github.com/rishh13/Single-Page-CV
 
 <!DOCTYPE html>
 <html lang="en">
